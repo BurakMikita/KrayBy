@@ -1,0 +1,23 @@
+{   "header":{
+    "news": "новости",
+    "about":"наши проекты",
+    "contact": "контакты",
+    "main": "главная"
+},
+"homePage": {
+    "TitleFormVolunteer": " Присоединиться к команде ",
+    "buttonFormVolunteer": "Заполнить заявку",
+    "TitleFormHelp": "  Мне нужна помощь",
+    "buttonFormHelp": "Заполнить заявку"
+
+},
+"footer": {
+    "titleContact": "контакты",
+    "adress":"улица  Рим",
+    "phone": "+228 14 77",
+    "posta": "grayBy.gmail.com"
+}
+
+
+    
+}

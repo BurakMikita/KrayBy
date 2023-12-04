@@ -1,0 +1,16 @@
+html,
+body {
+  height: 100%;
+}
+
+#root {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  background-color: white;
+  color: rgba(0, 0, 0, 0.87);
+}
+
+.active .MuiButton-root {
+  color:  #0c2427
+}

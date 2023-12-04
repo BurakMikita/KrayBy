@@ -1,0 +1,23 @@
+{   "header":{
+    "news": "news",
+    "about":"I nostri progetti",
+    "contact": "contact",
+    "main": "home"
+},
+
+
+"homePage": {
+    "TitleFormVolunteer": " Unisciti alla squadra ",
+    "buttonFormVolunteer": "Compila una domanda",
+    "TitleFormHelp": "Ho bisogno di aiuto",
+    "buttonFormHelp": "Compila una domanda"
+
+},
+"footer": {
+    "titleContact": "contatti",
+    "adress":"via Roma",
+    "phone": "+228 14 77",
+    "posta": "grayBy.gmail.com"
+}
+
+}
